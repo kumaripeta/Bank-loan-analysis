@@ -15,8 +15,7 @@ The dashboard is divided into three main sections:
 
 1. **Summary**
 2. **Overview**
-3. **Details** *(not shown here but part of the complete project)*
-
+3. **Details**
 ---
 
 ## 📊 Key Metrics (KPIs)
